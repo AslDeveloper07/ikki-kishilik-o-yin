@@ -30,3 +30,4 @@ This is a simple and interactive **two-player dice game** built using **HTML**, 
 
 1. Clone or download the repository:
    ```bash
+https://github.com/AslDeveloper07/ikki-kishilik-o-yin.git
