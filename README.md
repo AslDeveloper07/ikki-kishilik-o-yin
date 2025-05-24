@@ -26,9 +26,3 @@ This is a simple and interactive **two-player dice game** built using **HTML**, 
 - **CSS3** – Styling and layout  
 - **JavaScript (Vanilla)** – Game logic, dice roll, score tracking, and UI updates
 
-## 🚀 How to Run
-
-1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/your-username/two-player-dice-game.git
-
